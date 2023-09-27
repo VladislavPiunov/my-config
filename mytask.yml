@@ -1,2 +1,3 @@
 Mytaskapi:
-  Mongo: mongodb://user:pass@host.docker.internal:27017/
+  ConnectionStrings:
+    Mongo: mongodb://user:pass@host.docker.internal:27017/
