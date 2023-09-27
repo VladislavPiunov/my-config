@@ -1,0 +1,3 @@
+Mytask.API:
+  ConnectionStrings:
+    Mongo: mongodb://user:pass@host.docker.internal:27017/
