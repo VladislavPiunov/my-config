@@ -1,10 +1,3 @@
 MytaskAPI:
   ConnectionStrings:
     Mongo: mongodb://user:pass@localhost:27017/
-Keycloak:
-  realm: my_realm
-  auth-server-url: http://localhost:8484/auth/
-  ssl-required: none
-  resource: mytask-client
-  verify-token-audience: false
-  confidential-port: 0
