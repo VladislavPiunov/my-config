@@ -1,5 +1,6 @@
-ConnectionStrings:
-  Mongo: mongodb://user:pass@localhost:27017/
+MytaskAPI:
+  ConnectionStrings:
+    Mongo: mongodb://user:pass@localhost:27017/
 KeycloakOptions: 
   Host: "http://127.0.0.1"
   Port: 8484
