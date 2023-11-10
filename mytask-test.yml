@@ -1,3 +1,8 @@
-MytaskAPI:
-  ConnectionStrings:
-    Mongo: mongodb://user:pass@localhost:27017/
+ConnectionStrings:
+  Mongo: mongodb://user:pass@localhost:27017/
+KeycloakOptions: 
+  Host: "http://127.0.0.1"
+  Port: 8484
+  Realm: "my_realm"
+  ClientId: "mytask-client"
+  ClientSecret: "4Tco1xwk8WQQF6vUjRVFNJbFHeqFR39T"
