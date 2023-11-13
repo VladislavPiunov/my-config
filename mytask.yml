@@ -1,10 +1,9 @@
 MytaskAPI:
   ConnectionStrings:
     Mongo: mongodb://user:pass@host.docker.internal:27017/
-Keycloak:
-  realm: my_realm
-  auth-server-url: http://host.docker.internal:8484/auth/
-  ssl-required: none
-  resource: mytask-client
-  verify-token-audience: false
-  confidential-port: 0
+KeycloakOptions: 
+  Host: "http://host.docker.internal"
+  Port: 8484
+  Realm: "my_realm"
+  ClientId: "mytask-client"
+  ClientSecret: "JUImQpTmItjl6gtL0kimr6TbDrYHt0DW"
