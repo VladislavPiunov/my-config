@@ -1,8 +1,8 @@
 MytaskAPI:
   ConnectionStrings:
-    Mongo: mongodb://user:pass@host.docker.internal:27017/
+    Mongo: mongodb://user:pass@localhost:27017/
 KeycloakOptions: 
-  Host: "http://host.docker.internal"
+  Host: "http://localhost"
   Port: 8484
   Realm: "my_realm"
   ClientId: "mytask-client"
