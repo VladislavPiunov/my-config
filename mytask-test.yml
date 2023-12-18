@@ -6,4 +6,4 @@ KeycloakOptions:
   Port: 8484
   Realm: "my_realm"
   ClientId: "mytask-client"
-  ClientSecret: "JUImQpTmItjl6gtL0kimr6TbDrYHt0DW"
+  ClientSecret: "CvrgW62xy9BvrfWI1SRfyvlUi8sVgHpQ"
