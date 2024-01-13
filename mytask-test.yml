@@ -1,4 +1,5 @@
 MytaskAPI:
+  ConnectionName: "Test"
   ConnectionStrings:
     Mongo: mongodb://user:pass@localhost:27017/
 KeycloakOptions: 
