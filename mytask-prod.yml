@@ -7,7 +7,7 @@ KeycloakOptions:
   Port: 8484
   Realm: "my_realm"
   ClientId: "mytask-client"
-  ClientSecret: "t3yehvY5crLPxxHeqOMlHhbWg59OxuYW"
+  ClientSecret: "D0H5ZnFsem0Gj12lMaFmhQPt360ijLcO"
 RabbitMq: 
   Host: "host.docker.internal"
   Port: 5672
