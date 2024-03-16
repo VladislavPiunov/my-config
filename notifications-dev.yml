@@ -1,4 +1,4 @@
-Notifications:
+NotificationsAPI:
   ConnectionName: "Development"
   ConnectionStrings:
     Redis: http://localhost:6379/
