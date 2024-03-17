@@ -1,7 +1,10 @@
 NotificationsAPI:
   ConnectionName: "Development"
-  ConnectionStrings:
-    Redis: http://localhost:6379/
+Redis:
+  Host: "localhost"
+  Port: 6379
+  User: "admin"
+  Password: "my-password"
 RabbitMq: 
   Host: "localhost"
   Port: 5672
