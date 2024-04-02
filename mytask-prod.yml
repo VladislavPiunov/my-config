@@ -8,6 +8,8 @@ KeycloakOptions:
   Realm: "my_realm"
   ClientId: "mytask-client"
   ClientSecret: "GbQOu0qgq5aS9blYQsg96PileRe0j2WV"
+  Username: "admin"
+  Password: "admin"
 RabbitMq: 
   Host: "host.docker.internal"
   Port: 5672
