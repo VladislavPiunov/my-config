@@ -7,7 +7,7 @@ KeycloakOptions:
   Port: 8484
   Realm: "my_realm"
   ClientId: "mytask-client"
-  ClientSecret: "GbQOu0qgq5aS9blYQsg96PileRe0j2WV"
+  ClientSecret: "7wj1NxU5PCSC2ZJxtRUIahlHpOGqNVYR"
   Username: "admin"
   Password: "admin"
 RabbitMq: 
